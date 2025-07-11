@@ -1,4 +1,4 @@
-der System
+movie recommender System
 
 This project is a hybrid movie recommender system using both content-based filtering (with TF-IDF and cosine similarity) and collaborative filtering (using SVD from the Surprise library). It includes data exploration, model training, and deployment-ready model saving.
 
